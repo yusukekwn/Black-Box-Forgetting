@@ -1,0 +1,7 @@
+cma
+ftfy
+regex
+matplotlib
+pandas
+tqdm
+transformers
