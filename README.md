@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Data Preparation
-#### CIFAR-10,CIFAR-100
+#### CIFAR-10,CIFAR-100,CUB-200-2011
 The dataset will be downloaded when the code is run.
 
 #### ImageNet30
