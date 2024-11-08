@@ -1,5 +1,5 @@
 # Black-Box-Forgetting
-We provide Pytorch implementation of the NeurIPS 2024 paper "Black-Box Forgetting".
+We provide Pytorch implementation of the NeurIPS 2024 paper "[Black-Box Forgetting](https://arxiv.org/abs/2411.00409)".
 
 ## Abstract
 <p align="center">
