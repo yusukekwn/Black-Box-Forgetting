@@ -77,3 +77,15 @@ bash ./scripts/run_{dataset name}.sh bbt 125 1
 # ours w/o lcs
 bash ./scripts/run_{dataset name}.sh ind 125 16
 ```
+
+## Citation
+```
+@article{kuwana2024black,
+  title={Black-Box Forgetting},
+  author={Kuwana, Yusuke and Goto, Yuta and Shibata, Takashi and Irie, Go},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={58792--58815},
+  year={2024}
+}
+```
